@@ -7,20 +7,20 @@
 
 
 ### 🛠 Languages and Tools
-![Java](https://img.shields.io/badge/Java-Java-05122A?style=flat-square&logo=appveyor)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=appveyor)&nbsp;\
+![Java](https://img.shields.io/badge/-Java8-05122A?style=flat&logo=java&logoColor=007396)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)\
-![MySQL](https://img.shields.io/badge/MySQL-MySQL-05122A?style=flat&logo=HTML5)\
-![VueJS](https://img.shields.io/badge/VueJS-Vue-05122A?style=flat&logo=HTML5)&nbsp;
+![JavaScript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)\
+![VueJS](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=42A5F5)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio&logoColor=a4c639)\
-![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin-05122A?style=flat&logo=HTML5)&nbsp;
-![ReactNative](https://img.shields.io/badge/ReactNative-ReactNative-05122A?style=flat&logo=HTML5)\
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=0095D5)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=nativescript&logoColor=3655FF)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
