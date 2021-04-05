@@ -1,23 +1,26 @@
-### **Hello, I'm Tushar Chopra** 👋
+### **Hello, I'm Shubham Gupta** 👋
 
 ### 👨🏻‍💻 About Me
-🎓 I'm a Pre-Final Year Engineering Student at Delhi Technological University.
+🎓 B.Tech from Delhi Technological University 2018-2022.
+🏢 Internship at VISA 2021.
+
 
 
 ### 🛠 Languages and Tools
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=42A5F5)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=Mathworks&logoColor=FF9800)\
+![Java](https://img.shields.io/badge/Java-Java-05122A?style=flat-square&logo=appveyor)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=appveyor)&nbsp;\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)\
+![MySQL](https://img.shields.io/badge/MySQL-MySQL-05122A?style=flat&logo=HTML5)\
+![VueJS](https://img.shields.io/badge/VueJS-Vue-05122A?style=flat&logo=HTML5)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=42A5F5)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio&logoColor=a4c639)\
+![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin-05122A?style=flat&logo=HTML5)&nbsp;
+![ReactNative](https://img.shields.io/badge/ReactNative-ReactNative-05122A?style=flat&logo=HTML5)\
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
